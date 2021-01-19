@@ -28,4 +28,4 @@
   ~ Instagram : @fajarcahyadii_ <br/>
   ~ Facebook  : fajar cahyadiputra <br/>
   <br/>
-  ![github stats](https://github-readme-stats.vercel.app/api?username=raflidev&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=fajarcahyadiputra&show_icons=true)
