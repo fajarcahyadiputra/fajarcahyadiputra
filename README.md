@@ -24,6 +24,8 @@
   
 - 📫 How to reach me:
 
-  ~ Email     : fajarcahyadiputra@gmail.com
-  ~ Instagram : @fajarcahyadii_
-  ~ Facebook  : fajar cahyadiputra
+  ~ Email     : fajarcahyadiputra@gmail.com <br/>
+  ~ Instagram : @fajarcahyadii_ <br/>
+  ~ Facebook  : fajar cahyadiputra <br/>
+  <br/>
+  ![github stats](https://github-readme-stats.vercel.app/api?username=raflidev&show_icons=true)
