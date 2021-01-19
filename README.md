@@ -11,10 +11,11 @@
    ~ Nodejs
    ~ PHP
    ~ Javascript
+   ~ Jquery
    ~ Java
    ~ ReactJS
    ~ Laravel
-   ~ COdeigniter
+   ~ Codeigniter
    ~ Microservices
    ~ Docker
    
