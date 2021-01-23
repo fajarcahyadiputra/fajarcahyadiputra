@@ -8,16 +8,15 @@
    
 - 🌱 I’m currently learning 
 
-   ~ Nodejs
-   ~ PHP
-   ~ Javascript
-   ~ Jquery
-   ~ Java
-   ~ ReactJS
-   ~ Laravel
-   ~ Codeigniter
-   ~ Microservices
-   ~ Docker
+   ~ Nodejs <br/>
+   ~ PHP <br/>
+   ~ Javascript <br/>
+   ~ Jquery <br/>
+   ~ Java <br/>
+   ~ ReactJS <br/>
+   ~ Laravel <br/>
+   ~ Codeigniter <br/>
+   ~ Microservices <br/>
    
 - 💬 Ask me about
 
@@ -28,5 +27,6 @@
   ~ Email     : fajarcahyadiputra@gmail.com <br/>
   ~ Instagram : @fajarcahyadii_ <br/>
   ~ Facebook  : fajar cahyadiputra <br/>
+  ~ Whatsapp. : 0895378889471
   <br/>
   ![github stats](https://github-readme-stats.vercel.app/api?username=fajarcahyadiputra&show_icons=true)
