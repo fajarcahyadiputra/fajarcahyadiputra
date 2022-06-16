@@ -17,10 +17,6 @@
    ~ Laravel <br/>
    ~ Codeigniter <br/>
    ~ Microservices <br/>
-   
-- 💬 Ask me about
-
-  ~ You can Ask to me About Anything, if i can help i'll help
   
 - 📫 How to reach me:
 
