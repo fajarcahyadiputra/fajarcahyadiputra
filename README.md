@@ -24,6 +24,6 @@
 
   ~ Email     : fajarcahyadiputra@gmail.com <br/>
   ~ Instagram : @fajarcahyadii_ <br/>
-  ~ Whatsapp. : 0895378889471
+
   <br/>
   ![github stats](https://github-readme-stats.vercel.app/api?username=fajarcahyadiputra&show_icons=true)
