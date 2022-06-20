@@ -6,7 +6,7 @@
 
    ~ in my home
    
-- 🌱 I’m currently learning 
+- 🌱 My Stack 
 
    ~ Nodejs <br/>
    ~ PHP <br/>
@@ -17,6 +17,8 @@
    ~ Laravel <br/>
    ~ Codeigniter <br/>
    ~ Microservices <br/>
+   ~ Docker
+   ~ Digitalocean service
   
 - 📫 How to reach me:
 
