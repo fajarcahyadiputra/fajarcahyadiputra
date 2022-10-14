@@ -38,4 +38,4 @@
 | ![github stats](https://github-readme-stats.vercel.app/api?username=fajarcahyadiputra&show_icons=true&theme=radical) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=fajarcahyadiputra&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats) |
 | ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=fajarcahyadiputra&layout=compact&theme=nightowl) | [![trophy](https://github-profile-trophy.vercel.app/?username=fajarcahyadiputra&theme=onedark)](https://github.com/fajarcahyadiputra) | 
 
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=zakirkun&theme=xcode&area=true&hide_border=true)
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=fajarcahyadiputra&theme=xcode&area=true&hide_border=true)
