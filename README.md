@@ -26,4 +26,4 @@
   ~ Instagram : @fajarcahyadii_ <br/>
 
   <br/>
-  ![github stats](https://github-readme-stats.vercel.app/api?username=fajarcahyadiputra&show_icons=true)
+  https://github-readme-stats.vercel.app/api?username=fajarcahyadiputra&show_icons=true
