@@ -25,7 +25,7 @@
   ~ Email     : fajarcahyadiputra@gmail.com <br/>
   ~ Instagram : @fajarcahyadii_ <br/>
 
-[![GitHub Fckvania](https://img.shields.io/github/followers/zakirkun?label=follow&style=social)](https://github.com/fajarcahyadiputra)
+[![GitHub Fckvania](https://img.shields.io/github/followers/fajarcahyadiputra?label=follow&style=social)](https://github.com/fajarcahyadiputra)
 | Instagran | Facebook |
 |--|--| 
 | <a href="https://www.instagram.com/fajarcahyadi_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> | <a href="https://www.facebook.com/r00t.go.id" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
