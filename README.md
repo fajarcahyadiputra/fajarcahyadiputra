@@ -7,7 +7,9 @@
    ~ in my home
    
 - 🌱 My Stack 
-
+   ~ Golang (beego, echo and gin)
+   ~ Load Testing (K6)
+   ~ Automation Testing (Cypress and Katalon)
    ~ Nodejs <br/>
    ~ PHP <br/>
    ~ Javascript <br/>
