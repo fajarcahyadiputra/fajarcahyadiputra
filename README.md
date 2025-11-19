@@ -21,7 +21,6 @@
    ~ Microservices <br/>
    ~ Docker </br>
    ~ Digitalocean service
-   ~ Golang
   
 - 📫 How to reach me:
 
